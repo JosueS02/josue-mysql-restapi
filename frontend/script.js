@@ -1,5 +1,5 @@
 
-const apiUrl = 'mysql://avnadmin:AVNS_OxghixWankmVvlCh1sG@mysql-28221c6d-jsv02.j.aivencloud.com:14234/defaultdb?ssl-mode=REQUIRED';
+const apiUrl = '/api/f1';
 const driverForm = document.getElementById('driverForm');
 const driversTable = document.getElementById('driversTable');
 const submitBtn = document.getElementById('submitBtn');
